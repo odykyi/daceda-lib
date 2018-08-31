@@ -3,4 +3,4 @@ daceda-lib
 
 daceda-lib
 
-https://github.com/san4osq/daceda-lib/blob/master/daceda-lib.css
+https://github.com/odykyi/daceda-lib/blob/master/daceda-lib.css
